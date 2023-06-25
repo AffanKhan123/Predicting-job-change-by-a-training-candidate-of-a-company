@@ -9,11 +9,11 @@ Predicting job change by a training candidate of a company
 6) Found the algorithm with the best accuracy
 
 # Algorithms used:
-Logistic Regression
-Support vector machines
-Random forest
-K nearest neighbors
-Decision Tree
+1) Logistic Regression
+2) Support vector machines
+3) Random forest
+4) K nearest neighbors
+5) Decision Tree
 
 # Conclusion:
 Random Forest had the best accuracy of 84%
